@@ -1,4 +1,5 @@
 _repo: u-Charles-Sumner-his-complete-works-volume-16-of-20-u-Charles-Sumner-His-Complete-Works-Volum__50167
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,6 +9,9 @@ contributor:
       gutenberg_agent_id: '8738'
       url: http://www.gutenberg.org/2009/agents/8738
       wikipedia: http://en.wikipedia.org/wiki/George_Frisbie_Hoar
+covers:
+- cover_type: archival
+  image_path: 50167-h/images/cover.jpg
 creator:
   author:
     agent_name: Sumner, Charles
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1986
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sumner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50167#u-Charles-Sumner-his-complete-works-volume-16-of-20-u-Charles-Sumner-His-Complete-Works-Volum_
 gutenberg_issued: '2015-10-09'
 gutenberg_type: Text
 identifiers:
