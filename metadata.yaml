@@ -1,5 +1,5 @@
 _repo: u-Charles-Sumner-his-complete-works-volume-16-of-20-u-Charles-Sumner-His-Complete-Works-Volum__50167
-_version: 0.1.0
+_version: 0.1.1
 contributor:
   creator:
     editor:
@@ -33,7 +33,5 @@ rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
 - GITenberg
-title:
-- Charles Sumner; his complete works, volume 16 (of 20)
-- Charles Sumner; His Complete Works; Volume 16 (of 20)
+title: Charles Sumner; his complete works, volume 16 (of 20)
 url: http://www.gutenberg.org/ebooks/50167
